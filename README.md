@@ -245,11 +245,3 @@ Deploying the application on Render provided practical experience in making a ba
 
 Overall, this lab helped me develop a foundation in backend development, server-side programming, and application deployment.
 
-## 11. Submission Notes
-
-- The project source code is maintained in the GitHub repository.
-- The endpoint screenshots are included in the `screenshots/` directory.
-- The `node_modules/` directory and environment files are excluded from version control.
-- The README file contains the project description, setup instructions, API endpoints, and testing information.
-- The live application deployment URL will be added after deployment.
-- The GitHub repository link will be submitted through the ERP portal and the faculty's designated submission form, as required.
